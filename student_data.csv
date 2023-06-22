@@ -1,0 +1,7 @@
+"sno","name","dept","gender","email","phno","dt"
+"1","testName","CSE","male","this@gmail.com","2345678901","2023-06-22 13:46:03"
+"2","arpan","cse","male","arpan@gmail.com","6543456787","2023-06-22 14:40:47"
+"3","john wick","me","male","wick.john@gmail.com","5429769345","2023-06-22 14:41:24"
+"5","Swastika Pal","CSE","Female","palswastika@gmail.com","6352456754","2023-06-22 14:51:57"
+"9","Monami Ghosh","ECE","Female","ghoshmonami@gmail.com","9863524252","2023-06-22 23:26:06"
+"10","Hrick Dutta","IT","Male","duttahrick@gmail.com","5673829203","2023-06-22 23:27:58"
